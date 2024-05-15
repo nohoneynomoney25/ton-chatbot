@@ -1,13 +1,8 @@
-# TON Speedrun 
+# Чат-бот
 
-## 🚩 Challenge 2: Chatbot Contract
+🎫 Скомпилируем, протестируем и развернем смарт-контракт чат-бота. Знакомство с моделью актора в TON
 
-🎫 Сompile, test and deploy chatbot smart contract to the test network. Getting Acquainted with the TON Actor Model
-
-🌟 The final deliverable will be pipeline for smart contract development.
-
-💬 Meet other builders working in TON and get help in the [official dev chat](https://t.me/tondev_eng) or [TON learn tg](https://t.me/ton_learn)
-
+🌟 Конечным результатом станет конвейер для разработки смарт-контрактов.
 
 # Checkpoint 0: 🎁 Install 🎒
 
